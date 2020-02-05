@@ -3,7 +3,8 @@ This repository contains:
 1. cleaned train and test csv files 
 2. env iPython notebook to test your env installation
 3. model iPython notebook to import data, create model, train and evaluate the model 
-4. tfdl2_env.yml file for environment installation 
+4. persistence iPython notebook to calculate persistence of T+8 column of test.csv
+5. tfdl2_env.yml file for environment installation 
 
 Instructions: 
 1. Install anaconda to your system 
