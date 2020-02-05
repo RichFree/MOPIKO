@@ -1,0 +1,83 @@
+name: tfdeeplearning2
+channels:
+- defaults
+dependencies:
+- bleach
+- certifi
+- colorama
+- cycler
+- decorator
+- entrypoints
+- html5lib
+- icu
+- ipykernel
+- ipython
+- ipython_genutils
+- ipywidgets
+- jedi
+- jinja2
+- jpeg
+- jsonschema
+- jupyter
+- jupyter_client
+- jupyter_console
+- jupyter_core
+- libpng
+- markupsafe
+- matplotlib
+- mistune
+- mkl
+- nbconvert
+- nbformat
+- nb_conda
+- nb_conda_kernels
+- notebook
+- numpy
+- openssl
+- pandas
+- pandocfilters
+- path.py
+- pickleshare
+- pip
+- prompt_toolkit
+- pygments
+- pyparsing
+- pyqt
+- python
+- python-dateutil
+- pytz
+- pyzmq
+- qt
+- qtconsole
+- requests
+- scikit-learn
+- scipy
+- setuptools
+- simplegeneric
+- sip
+- six
+- testpath
+- tk
+- tornado
+- traitlets
+- wcwidth
+- wheel
+- widgetsnbextension
+- win_unicode_console
+- wincertstore
+- zlib
+- tensorflow-mkl
+- pip:
+  - ipython-genutils
+  - jupyter-client
+  - jupyter-console
+  - jupyter-core
+  - markdown
+  - prompt-toolkit
+  - protobuf
+  - werkzeug
+  - win-unicode-console
+  - seaborn
+  - git+https://github.com/tensorflow/docs
+prefix: C:\Users\Marcial\Anaconda3\envs\tfdeeplearning2
+
