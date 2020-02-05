@@ -13,3 +13,10 @@ Instructions:
 5. activate environment using: "conda activate tfdeeplearning2" - after you are done deactivate using: conda deactivate
 6. make sure that you are in the same folder as the notebooks, then type in: "jupyter notebook"
 7. open the iPython files and run on your computer! 
+
+References: 
+environment setup: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+tensorflow example: https://www.tensorflow.org/tutorials/keras/regression?hl=fr 
+
+code from example was used extensively in this repos. (Copyright (c) 2017 François Chollet) Used with permission under MIT license. 
+
